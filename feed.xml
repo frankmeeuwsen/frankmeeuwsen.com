@@ -1,0 +1,335 @@
+<?xml-stylesheet href="rss.xsl" type="text/xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Frank Meeuwsen</title>
+    <link>https://frankmeeuwsen.com/</link>
+    <description></description>
+    <managingEditor>frank@frankmeeuwsen.com</managingEditor>
+    <image>
+      <url>https://micro.blog/frank/avatar.jpg</url>
+      <title>from the feed. Man with glasses standing at sunset by the sea, looking contemplative.</title>
+      <link>https://frankmeeuwsen.com/</link>
+    </image> 
+    <language>en</language>
+    <lastBuildDate>Thu, 09 May 2024 06:40:37 +0200</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/05/09/it-turns-out.html</link>
+      <pubDate>Thu, 09 May 2024 06:40:37 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/05/09/it-turns-out.html</guid>
+      <description>&lt;p&gt;It &lt;a href=&#34;https://help.micro.blog/t/how-to-style-the-rss-feed/2833/2&#34;&gt;turns out&lt;/a&gt; my idea how to add a stylesheet to my RSS feed was right. Now I need to get it working. I &lt;em&gt;think&lt;/em&gt; I have all the elements in place, yet somehow &lt;a href=&#34;https://frankmeeuwsen.com/feed.xml&#34;&gt;the feed&lt;/a&gt; doesn’t show any other styling or new elements I added to the template.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/20240509063036-arc-microblog.png&#34; alt=&#34;A screenshot shows XML code for an RSS feed template with tags defining metadata such as title, link, and language, displayed on a computer interface.&#34; /&gt;
+&lt;p&gt;Maybe I should add a new post to have the underlying machines create a new feed where it will use my new template. So that’s what this post is, next to a small update.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/05/08/added-this-to.html</link>
+      <pubDate>Wed, 08 May 2024 21:49:42 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/05/08/added-this-to.html</guid>
+      <description>&lt;p&gt;Added this to the public &lt;a href=&#34;https://help.micro.blog/t/how-to-style-the-rss-feed/2833&#34;&gt;micro.blog forum&lt;/a&gt;, but perhaps I can find help here as well:
+In accordance to the idea to &lt;a href=&#34;https://darekkay.com/blog/rss-styling/&#34;&gt;make an RSS feed more pleasing to the eye&lt;/a&gt;, I want to add an XSL stylesheet to my feed. I use the Tiny Theme. What would be the best way to do this? Should I create a copy of layouts/_default/rss.xml and add the reference to the XSL stylesheet in there? And how would I create a XSL stylesheet in the directory structure? Is this also like layouts/_default/rss.xsl or could this better be static/css/rss.xsl?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/05/08/just-browsing-through.html</link>
+      <pubDate>Wed, 08 May 2024 20:05:20 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/05/08/just-browsing-through.html</guid>
+      <description>&lt;p&gt;Just browsing through my bookmarks and I came across &lt;a href=&#34;https://phanpy.social&#34;&gt;Phanpy.social&lt;/a&gt;, a nice client for Mastodon. I like their catch-up functionality where you can filter and tweak what you want to see from your timeline at any given moment. It also has some great shortcuts to browse through the timeline by just using your keyboard. They instantly feel familiair to me.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/capture-2024-05-08-195610.png&#34; alt=&#34;A digital screen displays article previews with images, in a social media-style interface, featuring news from different sources against a blue gradient background.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34; /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/05/08/i-took-the.html</link>
+      <pubDate>Wed, 08 May 2024 19:39:33 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/05/08/i-took-the.html</guid>
+      <description>&lt;p&gt;I took the plunge and decided to give the &lt;a href=&#34;https://arc.net/gift/ff5d7883&#34;&gt;Arc browser&lt;/a&gt; another try. It is such a different way of browsing the web and working on the web. But it is enticing. I feel like I can do more by just using another browser.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/05/02/als-de-sterren.html</link>
+      <pubDate>Thu, 02 May 2024 08:19:10 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/05/02/als-de-sterren.html</guid>
+      <description>&lt;p&gt;Als de sterren en het verkeer op de A10 mij gunstig zijn, ben ik vanmiddag bij het jaarlijkse &lt;a href=&#34;https://waag.org/nl/event/de-staat-van-het-internet-2024-met-kim-van-sparrentak/&#34;&gt;Staat van het Internet&lt;/a&gt; event van de &lt;a href=&#34;https://waag.org/nl/&#34;&gt;Waag Futurelab&lt;/a&gt;. Dit jaar geeft Kim van Sparrentak de lezing, zij is lid van het Europees Parlement. Zij was onder meer betrokken bij de AI Act, &lt;a href=&#34;https://groenlinks.nl/nieuws/europarlement-roept-op-tot-wetgeving-tegen-smartphoneverslaving&#34;&gt;het initiatiefvoorstel over &amp;lsquo;verslavend ontwerp van online diensten&amp;rsquo;&lt;/a&gt; en maakt ze zich hard voor het terugdringen van de macht van Big Tech door de ontwikkeling van wet- en regelgeving.
+Ik zie uit naar de lezing, het aansluitende panelgesprek en mogelijk interessante ontmoetingen naderhand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/29/here-are-two.html</link>
+      <pubDate>Mon, 29 Apr 2024 08:14:45 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/29/here-are-two.html</guid>
+      <description>&lt;p&gt;Here are &lt;a href=&#34;https://origami.kosmulski.org/blog/2024-04-09-ai-talk-foldfest&#34;&gt;two subjects&lt;/a&gt; I haven’t thought of they would collide…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I will be speaking about &lt;strong&gt;Artificial Intelligence&lt;/strong&gt; in &lt;strong&gt;origami&lt;/strong&gt; at &lt;a href=&#34;https://origamiusa.org/foldfest2024-spring&#34;&gt;FoldFest 2024&lt;/a&gt;, an online origami convention organized by OrigamiUSA.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Thanks to the indieblog.page “Get me a random personal blogpost” &lt;a href=&#34;https://indieblog.page/random&#34;&gt;link&lt;/a&gt; you can find more gems like these!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>True! The web is not dying</title>
+      <link>https://frankmeeuwsen.com/2024/04/29/true-the-web.html</link>
+      <pubDate>Mon, 29 Apr 2024 07:43:00 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/29/true-the-web.html</guid>
+      <description>&lt;p&gt;Thank you Manu for &lt;a href=&#34;https://manuelmoreale.com/the-web-is-not-dying&#34;&gt;a great reasoning&lt;/a&gt; why the web as we know it is still alive and kicking!
+&lt;/p&gt;
+&lt;blockquote&gt;The web is not dying. The web is huge. The web is ever-expanding. The fact that the web is just the same 5 big websites is a fucking lie. It’s like saying the restaurant industry is the same 5 fast food chains. It is not. It’s up to you to decide to stop visiting those 5 sites and stop ingesting their fast food content.&lt;/blockquote&gt;
+&lt;p&gt;Add to that what danah boyd writes in &lt;a href=&#34;https://zephoria.substack.com/p/struggling-with-a-moral-panic-once&#34;&gt;her newsletter&lt;/a&gt; and the spot-on &lt;a href=&#34;https://zephoria.substack.com/p/struggling-with-a-moral-panic-once/comment/54279861&#34;&gt;comment&lt;/a&gt; to it&lt;/p&gt;
+&lt;blockquote&gt;
+Can someone help me unpack a puzzle? I keep hearing AI pundits talk about how this is like 1999 with the internet. They mean this positively, focusing on all of the startups and energy on the cusp before the population writ large really appreciates all of the value of the internet. The thing that has me scratching my head is that this comparison seems to ignore that there was a complete and utter economic collapse of the tech industry in 2000/2001. So why are the business types not dreaming of 1996?
+&lt;p&gt;[&amp;hellip;]I think the reason why it&amp;rsquo;s not 1996 is because the mid-90s were about as much noncommercial expansion of the web as the commercial side, while the most easily-reachable parts of the web had become dominated by market interests a few years later.&lt;/p&gt;
+&lt;/blockquote&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Visiting the local Vrijmarkt on King’s Day</title>
+      <link>https://frankmeeuwsen.com/2024/04/28/visiting-the-local.html</link>
+      <pubDate>Sun, 28 Apr 2024 08:31:16 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/28/visiting-the-local.html</guid>
+      <description>&lt;p&gt;It was a beautiful day at the local Vrijmarkt yesterday. We avoided the hustle and bustle of downtown Utrecht during King’s Day and opted for a smaller children&amp;rsquo;s Vrijmarkt on the University grounds in the neighborhood.  Add some foodtrucks to that, a few bouncy castles, a drinks tent and a DJ, and you have a great afternoon program for the whole family.
+My search for miniature toys for my own craft- and kitbashing yielded nothing. Where wasn’t much for offer. I did see some Hotwheels cars here and there, but what the kids mainly offered for sale was their old collection of baby and children&amp;rsquo;s books, clothes that were too small, old board games and dolls.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8842.jpeg&#34; alt=&#34;People gather at outdoor flea market, browsing goods with a backdrop of brick buildings and trees.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;The center of the grounds was a great base for the four of us to have drinks and snacks.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8848.jpeg&#34; alt=&#34;Four people pose smiling at a picnic table with drinks in a crowded outdoor setting.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;Meanwhile, Tess found old PC games of The Sims. A game she still plays faithfully after all these years. Finn managed to buy some nice Pokemon cards that fit nicely with his collection.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8846.jpeg&#34; alt=&#34;A hand holds a stack of The Sims 2 PC game cases on a wooden surface.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;As we left we came across this beauty. Not for sale of course, presumably belonging to one of the families on the Vrijmarkt. A beautiful 1970 Saab 99 TS. They don&amp;rsquo;t make them like this anymore&amp;hellip;A search online yields some fine blog posts about this iconic car. Such as &lt;a href=&#34;http://saabisti.fi/saab-99-turbo-1978/&#34;&gt;a restoration blog&lt;/a&gt; for a slightly new model and a blog by an &lt;a href=&#34;https://swadeology.com/2015/01/saab-99s-slowly-becoming-collectable/&#34;&gt;old Saab copywriter&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/saab-99ts.jpeg&#34; alt=&#34;A vintage gray Saab car parked on cobblestone with other modern cars nearby and a crowd in the background near inflatable structures.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;All in all it was a good day!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/26/this-afternoon-the.html</link>
+      <pubDate>Fri, 26 Apr 2024 21:07:37 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/26/this-afternoon-the.html</guid>
+      <description>&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8825.jpeg&#34; alt=&#34;Orange sign reads Begin vrijmarkt with a canal, parked bicycles, and buildings in the background on a sunny day.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;This afternoon the inner city of Utrecht slowly turns orange when the annual King’s Night starts. In and around the center of Utrecht there are parties and we have what is called the Vrijmarkt, which loosely translates to “Sell the trash from your attic and shed in front of our house”-market. These parties and the self-proclaimed street-entrepreneurship naturally transcends into the King’s Day festivities which will happen tomorrow. Not only in Utrecht but throughout the whole country. I don’t have any warm connection to our monarchy or the ceremonial traditions it tries to represent. But I find the orange-clad crowds partying in the streets, the young salespeople finding a quick buck a nice way to spend the day off.&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8836.jpeg&#34; alt=&#34;A bustling street market with numerous people browsing stalls against a backdrop of townhouses under a cloudy sky.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto; width:80%&#34;&gt;
+&lt;p&gt;My wife and I had a small walk through some of the streets where you can buy any old vinyl, half-broken toys, shady “second-hand” bikes, questionable “vintage” jewelry and other knick-knacks. I had the idea to find a small collection of toys and assorted plastic junk I could use to &lt;a href=&#34;https://frankmeeuwsen.com/2024/03/24/the-whimsical-wheelybot.html&#34;&gt;kitbash some new monsters and robots&lt;/a&gt; together.&lt;/p&gt;
+&lt;p&gt;Alas, no luck during the small walk tonight. We might try again tomorrow, when we will visit the terrain of the University College around the corner. There will be foodtrucks and again a children’s Vrijmarkt. But we will start King’s Day with at least one tradition at home: the orange Tompouce! A Dutch pastry that consists of two layers of crispy puff pastry with an airy, creamy filling in between, topped with a sweet orange glaze. Maybe more pictures tomorrow…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/26/on-may-th.html</link>
+      <pubDate>Fri, 26 Apr 2024 08:24:59 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/26/on-may-th.html</guid>
+      <description>&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/microcamp-sticker-2023.png&#34; alt=&#34;A stylized illustration of a campfire with two logs and a flame containing a star above the logs, text reads Micro Camp.&#34; style=&#34;display:block; margin-left:auto; margin-right:auto;&#34; width=&#34;250&#34;&gt;
+&lt;p&gt;On May 17th there will be the annual &lt;a href=&#34;https://micro.camp/&#34;&gt;Micro Camp&lt;/a&gt;. A virtual gathering of and by the Micro.blog community. I look forward to be present this year! When I look at the impressions of previous years, it’s quite an event with lots of talks and connections. Nice!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/25/i-am-currently.html</link>
+      <pubDate>Thu, 25 Apr 2024 09:31:16 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/25/i-am-currently.html</guid>
+      <description>&lt;p&gt;I am currently listening to part three of the five-part trilogy of the Hitchhiker’s Guide to the Galaxy. And yet again I am highly amused at the great quotes and incredibly clever oneliners in the story. How the guide explains the art of flying once again has me giggling on my morning walk through the city center. People looked puzzled as I walked by with a daft grin as I listened to &amp;ldquo;&lt;em&gt;There is an art to flying, or rather a knack. The knack lies in learning how to throw yourself at the ground and miss. &amp;hellip; Clearly, it is this second part, the missing, that presents the difficulties.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;And yes, there is a &lt;a href=&#34;https://hitchhikers.fandom.com/wiki/Flying&#34;&gt;full The Hitchhiker&amp;rsquo;s Wiki entry&lt;/a&gt; on the art of flying. Because of course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>These boxes are for good</title>
+      <link>https://frankmeeuwsen.com/2024/04/24/these-boxes-are.html</link>
+      <pubDate>Wed, 24 Apr 2024 07:22:10 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/24/these-boxes-are.html</guid>
+      <description>&lt;p&gt;&amp;ldquo;we&amp;rsquo;ll meet at Miffy&amp;rdquo;, Peter said and I knew exactly &lt;a href=&#34;https://ruk.ca/content/boxplanation&#34;&gt;where that was&lt;/a&gt;. They had just come back from Roy Scholten&amp;rsquo;s printing atelier in Hilversum to pick up the new edition of &lt;a href=&#34;https://ruk.ca/&#34;&gt;Peter&lt;/a&gt;, &lt;a href=&#34;https://lisachandler.is/&#34;&gt;Lisa&lt;/a&gt; and their daughter L. ‘s project This Box is for Good. A fantastic idea to spread connection, inspiration, fun and ideas around the world. Or as they say themselves &lt;a href=&#34;https://thisbox.info/&#34;&gt;on the website&lt;/a&gt;: creative social interventions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8811.jpeg&#34; alt=&#34;Four similar cardboard boxes are aligned, each with the text THIS BOX IS FOR GOOD and colorful abstract designs. They sit on a dark surface with items in the background.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I now have four boxes waiting to be filled with something special for anyone else. My wife and I think about who we should give a box to both enjoy the contents and to better solidify the idea these boxes will travel the world in due time.
+Equal the fun is thinking about what the box should contain to give joy and delight. I am pondering the idea of all four of us making something to add to the box. But are we creative enough? (Yes, silly yet unrelenting voice inside my head, everyone is a creative!) And since we have four boxes, maybe each one of should give a box away to someone in their circle.&lt;/p&gt;
+&lt;p&gt;The creative cranks are cranking again, I&amp;rsquo;m feeling the joy of this project and what it can do moving forward. Thank you Peter, Lisa and L. for including us in your creative social interventions!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heb je wel een eigen site nodig?</title>
+      <link>https://frankmeeuwsen.com/2024/04/23/heb-je-wel.html</link>
+      <pubDate>Tue, 23 Apr 2024 09:00:29 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/23/heb-je-wel.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tracydurnell.com/2024/04/22/webbing-the-indieweb/&#34;&gt;“Webbing” the IndieWeb – Tracy Durnell&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;Is requiring a website to participate something the IndieWeb community prioritizes enough to disregard the needs of most Internet users (i.e. non-posters)? Can we better support IndieWeb readers who don’t have — and don’t want — their own websites? Frankly, can the IndieWeb “succeed” if having a website is a mandate?&lt;/blockquote&gt;
+&lt;p&gt;Tracy slaat de spijker op de kop met haar observatie over het indieweb. Is het een noodzaak om een eigen site te hebben om een onafhankelijk web succesvol te maken? Moet je een eigen domein hebben om er deel van uit te maken?
+Volgende week ben ik te gast bij de Podcast over Social Media van Kirsten Jassies, waar we onder andere deze onderwerpen behandelen.
+Ik ben doorgaans van mening dat iedereen in Nederland bij ontvangst van een BSN nummer, eveneens de vrijheid krijgt om een eigen domein te registreren. Gratis, voor de rest van je leven. Met de complimenten van een overheid die de noodzaak snapt van digitale vaardigheden.
+Met een eigen domein kun je al redelijk snel een eigen site maken, je eigen plek online. Al is het maar een &amp;ldquo;dit ben ik&amp;rdquo; pagina, met basis informatie voor anderen om je te bereiken.&lt;/p&gt;
+&lt;p&gt;Maar is een eigen site eigenlijk wel een noodzaak om een mensgericht alternatief voor het &amp;ldquo;corporate web&amp;rdquo; te laten slagen? Zoals Tracy verder gaat, is het niet al een stap om kleine interacties mogelijk te maken voor lezers? Natuurlijk zijn er reacties, maar het kan nog eenvoudiger. Waar Tracy een hartje in de header plaatst om je waardering uit te spreken voor een post, bij mij kan dat met een duimpje, onderaan elk artikel.
+Dit is een onderdeel van de &lt;a href=&#34;https://tinylytics.app/&#34;&gt;Tinylytics app&lt;/a&gt;, waarmee ik anonieme statistieken zie van deze site.&lt;/p&gt;
+&lt;p&gt;Net als in de hoogtijdagen van het bloggen, zal niet iedereen actief zijn met een eigen site. Maar we kunnen het lezen, beleven, verbinden en reageren op elkaars site wel zo aantrekkelijk mogelijk maken. Zodat we een volwaardige plek vormen met elkaar naast sociale platformen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/14/ik-heb-mijn.html</link>
+      <pubDate>Sun, 14 Apr 2024 18:15:35 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/14/ik-heb-mijn.html</guid>
+      <description>&lt;p&gt;Ik heb mijn &lt;a href=&#34;https://frankmeeuwsen.com/about/&#34;&gt;About-pagina&lt;/a&gt; aangevuld met podcasts waar ik te gast was. Vooral om te praten over indieweb en decentrale sociale netwerken.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/14/cory-doctorows-linkdump.html</link>
+      <pubDate>Sun, 14 Apr 2024 09:22:19 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/14/cory-doctorows-linkdump.html</guid>
+      <description>&lt;p&gt;Cory Doctorow’s &lt;a href=&#34;https://pluralistic.net/2024/04/13/goulash/#material-misstatement&#34;&gt;linkdump of today&lt;/a&gt; is so dense with great quotes and stories, it’ll keep you clicking and learning a full day.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Enshittification came to the ISP business early and hit it hard. The cartel that controls your access to the internet today is a billion light-years away from the principled technologists who invented the industry with an ethos of care, access and fairness. Today&amp;rsquo;s ISPs are bitterly opposed to Net Neutrality, the straightforward proposition that if you request some data, your ISP should send it to you as quickly and reliably as it can.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From the birth of ISP’s to AI snake-oil and giraffology. Happy sunday!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/13/patti-astor-who.html</link>
+      <pubDate>Sat, 13 Apr 2024 07:58:48 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/13/patti-astor-who.html</guid>
+      <description>&lt;p&gt;Patti Astor, who co-founded the renowned Fun Gallery in New York City, &lt;a href=&#34;https://rockthebells.com/articles/fun-gallery-founder-and-wild-style-actress-patti-astor-dead/&#34;&gt;has passed away&lt;/a&gt; at the age of 74. She was known for her advocacy of graffiti and street art as legitimate forms of art, as well as for her involvement in the influential film Wild Style.
+In 2014 I received an autographed copy of her biography. Filled back to back with great photographs of her life in the hip-hop scene.&lt;/p&gt;
+&lt;div class=&#34;image-row&#34; style=&#34;display: flex; justify-content: center;&#34;&gt;
+ &lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8755.jpeg&#34; alt=&#34;A woman poses with one hand on her hip against a graffiti backdrop. Text reads FUN GALLERY…the true story BY PATTI ASTOR.&#34; style=&#34;width: 300px; height: 300px; margin: 0 10px;&#34;&gt;
+  &lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8759.jpeg&#34; alt=&#34;Three people pose in front of a colorful graffiti wall with the words WILD STYLE written. The man in the center wears a red jacket and a cap. Text in Japanese is overlaid.&#34; style=&#34;width: 300px; height: 300px; margin: 0 10px;&#34;&gt;
+  &lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/img-8756.jpeg&#34; alt=&#34;A page with a title FUN GALLERY... THE TRUE STORY by Patti Astor. Below, a handwritten signature in pink ink reads xx Patti Astor with 2014 flanked by asterisks.&#34; style=&#34;width: 300px; height: 300px; margin: 0 10px;&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;The &lt;a href=&#34;https://straatmuseum.com/en/&#34;&gt;STRAAT museum&lt;/a&gt; in Amsterdam is a continuation of the vision Patti Astor had, to show how graffiti is a legitimate form of art. If you have the chance to visit this incredible museum, you will not regret it. See &lt;a href=&#34;https://diggingthedigital.com/het-straat-museum-in-amsterdam-is-overweldigend/&#34;&gt;my own (Dutch) review&lt;/a&gt; in the archives&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/12/it-is-great.html</link>
+      <pubDate>Fri, 12 Apr 2024 19:31:31 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/12/it-is-great.html</guid>
+      <description>&lt;p&gt;It is great to see all sorts of small blogging platforms popping up. I might have to take the time to create an overview in a post, but for now I want to bring your attention to &lt;a href=&#34;https://gibber.blog/&#34;&gt;Gibberish&lt;/a&gt;. A blogging app that looks and feels like a messaging app. It’s weird and that’s the point. We text and Whatsapp all the time. But when it comes to blogging, we stare at a blank editing screen like a rabbit in the headlights. The UI of Gibberish tricks you to go into writing mode. Just go.
+Gibberish is not for everyone and that’s OK. For instance, the maker states:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[…]The smaller the text input field is, the more users are willing to type text in them. Typing in a giant blank screen feels like a chore. But typing in a tiny text field feels effortless.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This goes diametrically  what others are saying, like Dave Winer, who wants &lt;a href=&#34;http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes&#34;&gt;to eradicate tiny textboxes&lt;/a&gt; and have more space to write.&lt;/p&gt;
+&lt;p&gt;Whatever your flavor, just keep publishing and sharing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/12/i-love-readwise.html</link>
+      <pubDate>Fri, 12 Apr 2024 07:59:44 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/12/i-love-readwise.html</guid>
+      <description>&lt;p&gt;I love &lt;a href=&#34;https://readwise.io/&#34;&gt;Readwise&lt;/a&gt;. I don’t use it too often but I love how they create a universe for my read-later pages, PDF’s, newsletters and since a few days, RSS.
+I’ve been testing the new feedreader for a few days. It’s not fully to my liking yet, but I understand the roadmap of Readwise, so I’m patient.
+However, while browsing through a selection of my daily feeds, I was stumped to read in Readwise a post by Ben Werdmuller. Or so I thought. What happened is Ben links to another site in the title of &lt;a href=&#34;https://werd.io/2024/making-version-noir&#34;&gt;his own post&lt;/a&gt;. He gives a small comment on the page, but in my Readwise Reader, it parses &lt;a href=&#34;https://anhvn.com/posts/2024/making-version-noir/&#34;&gt;the site&lt;/a&gt; Ben links to. Which, I agree with Ben, is inspiring. But I’d rather have Ben’s thoughts in my feedreader instead of the parsed site he links to.
+It is pretty easy to give feedback to the Readwise, so I did. I hope this issue is resolved soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/09/elke-xkcd-comic.html</link>
+      <pubDate>Tue, 09 Apr 2024 23:32:24 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/09/elke-xkcd-comic.html</guid>
+      <description>&lt;p&gt;Elke XKCD comic is waanzinnig, maar &lt;a href=&#34;https://xkcd.com/2916/&#34;&gt;deze machine&lt;/a&gt; is &lt;em&gt;next level awesome&lt;/em&gt;! Lekker knutselen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/09/ik-laat-nu.html</link>
+      <pubDate>Tue, 09 Apr 2024 12:46:47 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/09/ik-laat-nu.html</guid>
+      <description>&lt;p&gt;Ik laat nu Micro.blog zien aan Kirsten Jassies, bekend van de &lt;a href=&#34;https://kirstenjassies.nl/een-podcast-over-social-media/&#34;&gt;Podcast over Social Media&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/06/im-halfway-into.html</link>
+      <pubDate>Sat, 06 Apr 2024 17:14:55 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/06/im-halfway-into.html</guid>
+      <description>&lt;p&gt;I’m halfway into &lt;a href=&#34;https://micro.blog/annaleen@wandering.shop&#34;&gt;@annaleen@wandering.shop&lt;/a&gt; ‘s The Future of Another Timeline and I feel I should’ve made my own notes on who does what with whom where in which timeline… I’m getting confused!&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/83f9caf7acd946b6b6396b3458728d99.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;A few lines from the book The Future of Another Timeline. &#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/06/the-first-sunny.html</link>
+      <pubDate>Sat, 06 Apr 2024 17:01:24 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/06/the-first-sunny.html</guid>
+      <description>&lt;p&gt;The first sunny day of spring and there is a long queue at the local ice-cream parlor. Totally worth it!&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/acdf8f300ef94f1f86e953a91faa1b7e.jpg&#34; width=&#34;600&#34; height=&#34;600&#34; alt=&#34;&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/06/its-the-first.html</link>
+      <pubDate>Sat, 06 Apr 2024 09:27:04 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/06/its-the-first.html</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s the first weekend of the new month. So I have updated my &lt;a href=&#34;https://frankmeeuwsen.com/now/&#34;&gt;/NOW&lt;/a&gt;-page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>30 years ago today...</title>
+      <link>https://frankmeeuwsen.com/2024/04/05/i-still-miss.html</link>
+      <pubDate>Fri, 05 Apr 2024 06:57:11 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/05/i-still-miss.html</guid>
+      <description>&lt;p&gt;I still miss Kurt. What kind of music would he make if he was still here?  And to give you some perspective, in 1994 it was 30 years since Sam Cooke died. Or Ian Fleming. I&amp;rsquo;m getting old&amp;hellip;&lt;/p&gt;
+&lt;img src=&#34;https://frankmeeuwsen.com/uploads/2024/afbeelding.jpeg&#34; width=&#34;600&#34; height=&#34;337&#34; alt=&#34;Kurt Cobain with the angel wings of the In Utero statue behind him&#34; style=&#34;display:block; margin-left:auto; margin-right:auto;&#34;&gt;
+&lt;p&gt;Time to crank some Bleach, Nevermind and In Utero today. And of course, the infamous &lt;a href=&#34;https://www.youtube.com/playlist?list=PLQXcAyvY0ao5IcNnYmokQ0cX-2C893Hyp&#34;&gt;MTV Unplugged session&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://frankmeeuwsen.com/2024/04/04/kagi-update-well.html</link>
+      <pubDate>Thu, 04 Apr 2024 21:55:29 +0200</pubDate>
+      
+      <guid>http://frank.micro.blog/2024/04/04/kagi-update-well.html</guid>
+      <description>&lt;p&gt;Kagi update #2: Well thát escalated quickly… After the glowing reviews, I also found concerns about the ethical choices of the company. It all comes down to the discussion in &lt;a href=&#34;https://kagifeedback.org/d/2808-reconsider-your-partnership-with-brave/54&#34;&gt;this forum thread&lt;/a&gt;. I have to be honest, it’s a messy situation. I wasn’t even aware of the &lt;a href=&#34;https://www.spacebar.news/stop-using-brave-browser/&#34;&gt;issues&lt;/a&gt; &lt;a href=&#34;https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/&#34;&gt;with&lt;/a&gt; &lt;a href=&#34;https://lemmy.world/post/6561120&#34;&gt;the&lt;/a&gt; Brave browser, which is my default browser for over a year now. I don’t know for a 100% how to deal with this. I still want to read some of the more thoughtful and balanced responses in the thread. I have experience working at a startup and currently work at a creative agency. I recognize some of the discussions and arguments that are given from both sides. I don’t claim to have the answers for them. I don’t even know for sure how I feel about it myself.&lt;/p&gt;
+&lt;p&gt;I only know for now, for myself, I don’t live in a vacuum. I don’t live in an ideal world. I want to be the positive change myself. I know I can’t fight every battle. I know I will not see the end of the discussion. I need to move on from day to day. I have other priorities.&lt;/p&gt;
+&lt;p&gt;So… I don’t have a definitive answer to the situation of Kagi, Brave and the intersection of tech and politics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

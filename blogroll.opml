@@ -1,0 +1,57 @@
+<?xml-stylesheet href="opml.xsl" type="text/xsl"?>
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>Frank Meeuwsen - Blogroll</title>
+  </head>
+  <body>
+    <outline type="rss" text="Austin Kleon" xmlUrl="http://feeds2.feedburner.com/AustinKleon" htmlUrl="http://austinkleon.com/" category="Recommendations"/>
+    <outline type="rss" text="Apple Annie" xmlUrl="https://weblog.anniegreens.lol/rss.xml" htmlUrl="https://weblog.anniegreens.lol/" category="Recommendations"/>
+    <outline type="rss" text="Analog Office" xmlUrl="https://analogoffice.net/feed.xml" htmlUrl="https://analogoffice.net/" category="Recommendations"/>
+    <outline type="rss" text="Benedict Evans" xmlUrl="https://www.ben-evans.com/benedictevans?format=RSS" htmlUrl="https://www.ben-evans.com/" category="Recommendations"/>
+    <outline type="rss" text="Ben Werdmuller" xmlUrl="https://werd.io/?_t=rss" htmlUrl="https://werd.io/" category="Recommendations"/>
+    <outline type="rss" text="Bjorn Franke" xmlUrl="https://www.bjornfranke.nl/feed/" htmlUrl="https://www.bjornfranke.nl/" category="Recommendations"/>
+    <outline type="rss" text="Chris Aldrich" xmlUrl="https://boffosocko.com/feed/" htmlUrl="https://boffosocko.com/" category="Recommendations"/>
+    <outline type="rss" text="Christian Luijten" xmlUrl="https://luijten.org/feed.xml" htmlUrl="https://luijten.org/" category="Recommendations"/>
+    <outline type="rss" text="Colin Walker" xmlUrl="https://colinwalker.blog/livefeed.xml" htmlUrl="https://colinwalker.blog/" category="Recommendations"/>
+    <outline type="rss" text="Craig Mod" xmlUrl="https://craigmod.com/index.xml" htmlUrl="https://craigmod.com/" category="Recommendations"/>
+    <outline type="rss" text="Dave Rupert" xmlUrl="https://daverupert.com/atom.xml" htmlUrl="http://daverupert.com/" category="Recommendations"/>
+    <outline type="rss" text="Dave Winer" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/" category="Recommendations"/>
+    <outline type="rss" text="Doc Searls" xmlUrl="http://blogs.harvard.edu/doc/feed/" htmlUrl="http://blogs.law.harvard.edu/doc" category="Recommendations"/>
+    <outline type="rss" text="Doug Belshaw" xmlUrl="https://dougbelshaw.com/blog/feed/" htmlUrl="http://dougbelshaw.com/blog" category="Recommendations"/>
+    <outline type="rss" text="Douglas Rushkoff" xmlUrl="https://rushkoff.com/feed/" htmlUrl="http://www.rushkoff.com/blog/" category="Recommendations"/>
+    <outline type="rss" text="Elmine Wijnia" xmlUrl="https://infullflow.net/feed/" htmlUrl="https://infullflow.net/" category="Recommendations"/>
+    <outline type="rss" text="Erik Visser" xmlUrl="https://rkvssr.nl/feed/" htmlUrl="https://rkvssr.nl/" category="Recommendations"/>
+    <outline type="rss" text="Erin Kissane" xmlUrl="https://erinkissane.com/feed.rss" htmlUrl="https://erinkissane.com/" category="Recommendations"/>
+    <outline type="rss" text="Glen E. Friedman" xmlUrl="https://idealistpropaganda.blogspot.com/feeds/posts/default" htmlUrl="https://idealistpropaganda.blogspot.com/" category="Recommendations"/>
+    <outline type="rss" text="Jan Boddez" xmlUrl="https://jan.boddez.net/feed" htmlUrl="https://jan.boddez.net/" category="Recommendations"/>
+    <outline type="rss" text="Jeremy Cherfas" xmlUrl="https://www.jeremycherfas.net/blog.atom" htmlUrl="http://www.jeremycherfas.net/" category="Recommendations"/>
+    <outline type="rss" text="Jeroen Sangers" xmlUrl="https://jeroensangers.com/feed.xml" htmlUrl="https://jeroensangers.com/" category="Recommendations"/>
+    <outline type="rss" text="Marco Derksen" xmlUrl="https://koneksa-mondo.nl/feed/" htmlUrl="https://koneksa-mondo.nl/" category="Recommendations"/>
+    <outline type="rss" text="Matt Webb" xmlUrl="https://interconnected.org/home/feed" htmlUrl="http://interconnected.org/home" category="Recommendations"/>
+    <outline type="rss" text="Matthias Ott" xmlUrl="https://matthiasott.com/rss" htmlUrl="https://matthiasott.com/" category="Recommendations"/>
+    <outline type="rss" text="maya.land" xmlUrl="https://maya.land/feed.xml" htmlUrl="https://maya.land/" category="Recommendations"/>
+    <outline type="rss" text="Neon Dystopia" xmlUrl="https://www.neondystopia.com/feed/" htmlUrl="https://www.neondystopia.com/" category="Recommendations"/>
+    <outline type="rss" text="net.wars" xmlUrl="https://www.pelicancrossing.net/netwars/atom.xml" htmlUrl="https://www.pelicancrossing.net/netwars/" category="Recommendations"/>
+    <outline type="rss" text="Ochtendgrijs" xmlUrl="https://ochtendgrijs.be/feed/" htmlUrl="https://ochtendgrijs.be/index.php" category="Recommendations"/>
+    <outline type="rss" text="Oskar van Rijswijk" xmlUrl="https://ovr.today/feed.xml" htmlUrl="https://ovr.today/" category="Recommendations"/>
+    <outline type="rss" text="Peter Rukavina's Weblog" xmlUrl="https://ruk.ca/rss/feedburner.xml" htmlUrl="https://ruk.ca/" category="Recommendations"/>
+    <outline type="rss" text="Remkus de Vries" xmlUrl="https://remkus.devries.frl/feed/" htmlUrl="https://remkus.devries.frl/" category="Recommendations"/>
+    <outline type="rss" text="Robin Sloan" xmlUrl="https://www.robinsloan.com/feed.xml" htmlUrl="http://robinsloan.com/" category="Recommendations"/>
+    <outline type="rss" text="Robin Rendle" xmlUrl="https://robinrendle.com/feed.xml" htmlUrl="https://robinrendle.com/" category="Recommendations"/>
+    <outline type="rss" text="Sara Joy" xmlUrl="https://sarajoy.dev/rss.xml" htmlUrl="https://sarajoy.dev/" category="Recommendations"/>
+    <outline type="rss" text="Sebastiaan Andeweg" xmlUrl="https://seblog.nl/feed.rss" htmlUrl="https://seblog.nl/" category="Recommendations"/>
+    <outline type="rss" text="Sophie Koonin" xmlUrl="https://localghost.dev/feed.xml" htmlUrl="https://localghost.dev/" category="Recommendations"/>
+    <outline type="rss" text="The Arcadeblogger" xmlUrl="https://arcadeblogger.com/feed/" htmlUrl="https://arcadeblogger.com/" category="Recommendations"/>
+    <outline type="rss" text="The History of the Web" xmlUrl="https://thehistoryoftheweb.com/feed/" htmlUrl="https://thehistoryoftheweb.com/" category="Recommendations"/>
+    <outline type="rss" text="The Long Now Blog" xmlUrl="http://feeds.feedburner.com/longnow" htmlUrl="https://longnow.org/ideas/" category="Recommendations"/>
+    <outline type="rss" text="The Sky I Scrape" xmlUrl="http://www.theskyiscrape.com/feeds/posts/default" htmlUrl="http://www.theskyiscrape.com/" category="Recommendations"/>
+    <outline type="rss" text="This Week in the IndieWeb" xmlUrl="https://indieweb.org/this-week/feed.xml" htmlUrl="https://indieweb.org/this-week" category="Recommendations"/>
+    <outline type="rss" text="Tom Critchlow" xmlUrl="https://tomcritchlow.com/feed" htmlUrl="http://tomcritchlow.com/" category="Recommendations"/>
+    <outline type="rss" text="Ton Zijlstra" xmlUrl="https://www.zylstra.org/blog/feed/" htmlUrl="https://www.zylstra.org/blog" category="Recommendations"/>
+    <outline type="rss" text="Tracy Durnell" xmlUrl="https://tracydurnell.com/feed/" htmlUrl="https://tracydurnell.com/" category="Recommendations"/>
+    <outline type="rss" text="Two-Bit History" xmlUrl="https://twobithistory.org/feed.xml" htmlUrl="https://twobithistory.org/" category="Recommendations"/>
+    <outline type="rss" text="Wouter Groeneveld" xmlUrl="https://brainbaking.com/index.xml" htmlUrl="https://brainbaking.com/" category="Recommendations"/>
+    <outline type="rss" text="Zijperspace.nl" xmlUrl="https://zijperspace.nl/feed/" htmlUrl="https://zijperspace.nl/" category="Recommendations"/>
+  </body>
+</opml>
